@@ -2,4 +2,4 @@ from .base import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'qinweny2.pythoneverywhere.com',]
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'qinweny2.pythonanywhere.com',]
