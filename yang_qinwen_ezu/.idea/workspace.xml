@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa84d6e2-411b-4575-8e48-852ebd1c880a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../439Final/yang_lucy_final_project/shoppinginfo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../439Final/yang_lucy_final_project/shoppinginfo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../439Final/yang_lucy_final_project/shoppinginfo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../439Final/yang_lucy_final_project/shoppinginfo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../439Final/yang_lucy_final_project/shoppinginfo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../439Final/yang_lucy_final_project/shoppinginfo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../439Final/yang_lucy_final_project/shoppinginfo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/.idea/yang_qinwen_ezu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/migrations/0002_auto_20220218_0516.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/migrations/0003_auto_20220218_0559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/migrations/0004_myuser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/migrations/0005_auto_20220226_2204.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/student_and_instructor_design_issues_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/course_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/course_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/instructor_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/instructor_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/registration_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/registration_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/section_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/section_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/semester_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/semester_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/student_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/templates/courseinfo/student_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/courseinfo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/yang_lucy_ezu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/yang_lucy_ezu/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/yang_lucy_ezu/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/yang_lucy_ezu/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/yang_lucy_ezu/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../yang_lucy_ezu/yang_lucy_ezu/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/migrations/0004_myuser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/student_and_instructor_design_issues_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/course_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/course_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/instructor_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/instructor_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/registration_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/registration_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/section_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/semester_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/semester_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/student_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/templates/courseinfo/student_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseinfo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week10/starter_files_for_forms_coding_assignment/views_code_snipped_for_RegistrationDelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week10/starter_files_for_forms_coding_assignment/views_code_snippet_for_InstructorDelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week10/starter_files_for_forms_coding_assignment/views_code_snippet_for_InstructorUpdate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../IS496/homework/GA/GA2/program2-files/kivi/tcpclient1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../IS496/homework/GA/GA2/program2-files/kivi/tcpserver1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../找工作/RESUME QINWEN YANG.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../找工作/cover letter.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="27RwrpjxGTQuCGTfse1K6ZkIIfZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="yang_qinwen_ezu" type="Python.DjangoServer" factoryName="Django server">
+      <module name="yang_qinwen_ezu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa84d6e2-411b-4575-8e48-852ebd1c880a" name="Changes" comment="" />
+      <created>1649296409018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649296409018</updated>
+      <workItem from="1649296411497" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
